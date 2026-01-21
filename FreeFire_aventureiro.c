@@ -5,7 +5,7 @@
 
 #define MAX_STR_NOME 30
 #define MAX_STR_TIPO 20
-#define MAX_ITENS 3
+#define MAX_ITENS 10
 
 /////////////////////////////////////////////////////////// Vetor
 typedef struct {
